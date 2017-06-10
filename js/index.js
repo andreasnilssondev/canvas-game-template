@@ -8,7 +8,7 @@ var movingObject = {
 	posX: 0,
 	posY: 0,
 	height: 50,
-	width: 50;
+	width: 50,
 	speed: 5
 };
 
