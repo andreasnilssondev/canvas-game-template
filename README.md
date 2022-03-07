@@ -1,5 +1,5 @@
 # canvas-game-template 
-[Demo](http://nandreas.github.io/canvas-game-template/)
+[Demo](http://andreasnilssondev.github.io/canvas-game-template/)
 
 A simple template/starting point for a javascript game using requestAnimationFrame and canvas. 
 
